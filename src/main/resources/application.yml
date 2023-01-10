@@ -1,0 +1,12 @@
+server:
+  port: 8080
+
+spring:
+  rsocket:
+    server:
+      port: 7070
+
+logging:
+  level:
+    root: INFO
+    com.bory.reactivesockettutorial: DEBUG
