@@ -29,7 +29,7 @@ dependencies {
     implementation("org.jetbrains.kotlin:kotlin-reflect")
     implementation("org.jetbrains.kotlin:kotlin-stdlib-jdk8")
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-reactor")
-    implementation("io.netty:netty-resolver-dns-native-macos:4.1.86.Final:osx-x86_64")
+    implementation("io.netty:netty-resolver-dns-native-macos:4.1.86.Final:osx-aarch_64")
     developmentOnly("org.springframework.boot:spring-boot-devtools")
 
 
